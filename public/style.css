@@ -1,0 +1,24 @@
+.navbar-brand img {
+  width: 32px;
+  height: 32px;
+}
+.table-properties th {
+  font-weight: normal;
+  width: 15rem;
+}
+.table-properties td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.table-properties tr:first-child td,
+.table-properties tr:first-child th {
+  border-top: none !important;
+}
+.noborder {
+  border: none;
+}
+.img-lg {
+  width: 9rem;
+  height: 9rem;
+}
